@@ -38,4 +38,5 @@ Return ONLY a JSON array.
 
   const result = await model.generateContent(prompt);
   return result.response.text();
+
 }
