@@ -1,0 +1,9 @@
+You are a financial assistant.
+
+Categorize the expense into ONE category only:
+Food, Transport, Entertainment, Shopping, Bills, Other
+
+Return ONLY the category name.
+No explanation.
+
+Expense description: "{{description}}"
